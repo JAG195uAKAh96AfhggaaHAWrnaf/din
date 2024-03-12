@@ -1,0 +1,143 @@
+"Responder_Number","RVC","BMH","New","C4","Eating_Freq","Mealplan","Bring_Back","Main_Factor","Takeout_Freq","Max_Pay","Food_Thievery","Bought_Takeout","Why_Not","Delivery_Freq","Cost_Factor","Speed_Factor","Quality_Factor","Variety_Factor","Etc","Food_Thievery_YN","Why_Not_Qualitative"
+1,"Yes","Yes","No","No",2,"Yes","Yes","Speed",4,4,"often","No",NA,1,4,5,4,3,NA,"Yes",NA
+2,"Yes",NA,"Yes",NA,3,"Yes","Yes","Schedule",4,10,"never","No",NA,NA,4,2,4,3,NA,"No",NA
+3,"Yes","No","No","Yes",2,"Yes","Yes","Place",4,4,"rarely","No",NA,2,4,2,3,2,NA,"Yes",NA
+4,"Yes","Yes","No","No",2,"Yes","Yes","Speed",4,4,"often","No",NA,0,4,4,3,3,NA,"Yes",NA
+5,"Yes",NA,"Yes","Yes",3,"Yes","Yes","Schedule",1,5,"sometimes","No","it is not available in my residence",0,3,2,2,2,NA,"Yes","Availability"
+6,"Yes","No","No","Yes",2,"Yes","Yes","Place",2,5,"often","Yes",NA,2,2,4,5,5,NA,"Yes",NA
+7,"Yes","Yes","Yes","Yes",NA,"Yes","Yes","Place",4,0,"often","No",NA,1,5,3,5,3,NA,"Yes",NA
+8,"Yes","Yes","No","No",2,"Yes","Yes","Schedule",1,4,"often","No","I but from the cafés. Most dining halls don't have takeout like this.",0,5,2,4,2,NA,"Yes","Availability"
+10,"Yes","No","No","Yes",3,"Yes","Yes","Schedule",4,4,"sometimes","No","too expensive!",1,5,4,5,3,NA,"Yes","Price"
+11,"Yes","No","Yes","Yes",3,"Yes","Yes","Speed",2,0,"sometimes","No",NA,1,5,NA,NA,NA,NA,"Yes",NA
+12,"Yes","Yes","No","Yes",1,"Yes","Yes","Schedule",4,5,"often","No",NA,2,3,5,5,4,NA,"Yes",NA
+13,"Yes",NA,"Yes","No",3,"Yes","Yes","Schedule",2,0,"often","Yes",NA,0,5,3,NA,NA,NA,"Yes",NA
+14,"Yes","No","No","No",3,"Yes","Yes","Schedule",2,5,"rarely","No",NA,1,5,5,5,4,NA,"Yes",NA
+15,"Yes","Yes","No","No",3,"Yes","Yes","Schedule",4,0,"often","No",NA,0,4,3,NA,NA,NA,"Yes",NA
+16,"Yes","Yes","No","Yes",3,"Yes","Yes","Schedule",4,4,"often","No",NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+17,"Yes","No","No","Yes",3,"Yes","Yes","Schedule",4,4,"often","Yes",NA,1,3,1,5,4,NA,"Yes",NA
+18,"Yes","No","Yes","No",2,"Yes","Yes","Schedule",2,0,"sometimes","No","Price, Quality",1,5,2,5,3,NA,"Yes","Price, Quality"
+19,"Yes","No","Yes","No",3,"Yes","Yes","Schedule",2,0,"sometimes","No",NA,0,4,3,3,3,NA,"Yes",NA
+20,"Yes","Yes","No","No",2,"Yes","Yes","Schedule",NA,4,"often","No",NA,1,3,3,4,3,NA,"Yes",NA
+21,"Yes","No","Yes","No",3,"Yes","Yes","Schedule",NA,4,"rarely","No","To spenny",1,5,2,5,3,NA,"Yes","Price"
+22,"Yes","Yes","Yes","No",1,"Yes","Yes","Place",4,0,"sometimes",NA,NA,1,2,3,4,NA,NA,"Yes",NA
+23,"Yes","No","Yes","Yes",3,"Yes","Yes","Place",2,4,"rarely","No",NA,0,5,1,1,1,NA,"Yes",NA
+24,"Yes","Yes","No","No",3,"Yes","Yes","Waste",4,0,"sometimes","No",NA,2,5,5,5,5,NA,"Yes",NA
+25,"Yes","No","No","Yes",2,"Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,"Yes","Yes","No","Yes",3,"Yes","Yes","Schedule",4,0,"often","No",NA,4,5,NA,NA,NA,NA,"Yes",NA
+27,"Yes","Yes","No","Yes",3,"Yes","Yes","Waste",4,0,"rarely","Yes",NA,1,5,3,5,2,NA,"Yes",NA
+28,"Yes","Yes","Yes","No",2,"Yes","Yes","Place",4,4,"never","No",NA,4,3,3,4,4,NA,"No",NA
+29,"Yes","No","No","No",2,"Yes","Yes","Speed",2,4,"sometimes","No",NA,1,3,2,NA,3,NA,"Yes",NA
+30,"Yes",NA,NA,"Yes",3,"Yes","No","Schedule",4,0,"never","No",NA,NA,5,NA,NA,NA,NA,"No",NA
+31,"Yes","No","Yes","No",3,"Yes","Yes","Schedule",2,0,"sometimes","No",NA,1,4,NA,3,5,NA,"Yes",NA
+32,"Yes",NA,"No","Yes",2,"Yes","Yes","Speed",1,5,"rarely","No",NA,1,NA,NA,NA,NA,NA,"Yes",NA
+34,"Yes","Yes","No","No",1,"Yes","Yes","Schedule",2,4,"rarely","No",NA,1,3,3,1,NA,NA,"Yes",NA
+36,"Yes",NA,NA,NA,3,"Yes","Yes","Schedule",4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,"Yes","No","No","Yes",2,"Yes","Yes",NA,2,0,"often","Yes",NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+38,"Yes","No","No","No",3,"Yes","Yes",NA,2,5,"rarely","No",NA,0,5,NA,1,1,NA,"Yes",NA
+40,"Yes","No","No","No",0,"No",NA,NA,2,4,"never","No",NA,2,5,NA,NA,NA,NA,"No",NA
+41,"Yes","No","No","Yes",3,"Yes","Yes","Schedule",NA,5,"often","No",NA,0,5,2,3,2,NA,"Yes",NA
+42,"Yes","Yes","No","No",3,"Yes","No","Waste",0,NA,NA,"No",NA,0,NA,NA,NA,NA,NA,NA,NA
+43,"Yes","No","Yes","No",3,"Yes","Yes","Schedule",4,0,"sometimes","No",NA,1,NA,NA,NA,NA,NA,"Yes",NA
+44,"Yes","No","Yes","No",2,"Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,"Yes","No","No","Yes",3,"Yes","Yes",NA,NA,NA,"often","No",NA,0,5,3,3,2,NA,"Yes",NA
+46,"Yes","No","Yes","No",3,"Yes","Yes","Place",4,0,"often","No",NA,0,5,2,3,3,NA,"Yes",NA
+47,"Yes","Yes","No","No",2,"Yes","Yes","Schedule",NA,4,"rarely","No",NA,1,5,1,NA,NA,NA,"Yes",NA
+48,"Yes","No","Yes","No",2,"Yes","Yes","Place",2,4,"sometimes","No",NA,1,4,3,4,2,NA,"Yes",NA
+49,"Yes","No","No","Yes",3,"Yes","Yes","Waste",4,NA,"rarely","No",NA,0,4,3,4,2,NA,"Yes",NA
+50,"Yes",NA,NA,NA,NA,"Yes","Yes","Speed",4,4,NA,NA,NA,4,2,NA,NA,NA,NA,NA,NA
+51,"Yes","No","No","Yes",2,"Yes","Yes","Speed",4,5,"sometimes","Yes","it's not as good quality tbh",0,NA,NA,NA,NA,NA,"Yes","Quality"
+52,"Yes","No","No","Yes",3,"Yes","Yes","Schedule",4,4,"rarely","Yes",NA,1,4,3,5,4,NA,"Yes",NA
+53,"Yes","No","No","Yes",2,NA,"Yes","Schedule",4,0,"rarely","No","no variety and i don't want to pay extra",2,3,NA,4,4,NA,"Yes","Variety, Price"
+54,"Yes","No","Yes","No",3,"Yes","Yes","Place",2,0,"rarely","No",NA,2,NA,NA,NA,NA,NA,"Yes",NA
+55,"Yes","Yes","No","No",3,"Yes","Yes","Schedule",2,4,"rarely","No",NA,1,4,2,3,3,NA,"Yes",NA
+56,"Yes","No","No","Yes",3,"Yes","Yes","Place",4,0,"never","Yes",NA,4,NA,NA,NA,NA,NA,"No",NA
+57,"Yes","No","Yes","No",3,"Yes","Yes","Speed",2,4,"sometimes","No",NA,0,4,3,NA,NA,NA,"Yes",NA
+58,"Yes","No","No","Yes",2,"Yes","Yes","Schedule",2,5,"never","No",NA,0,5,2,3,1,NA,"No",NA
+61,"Yes","No","No","No",3,"Yes","Yes","Waste",2,0,"sometimes","No",NA,0,NA,NA,NA,NA,NA,"Yes",NA
+63,"Yes","No","Yes","Yes",3,"Yes","Yes","Place",1,0,"sometimes","Yes",NA,1,5,4,4,3,NA,"Yes",NA
+64,"Yes","Yes","No","No",NA,"Yes","Yes","Place",4,0,"sometimes","No",NA,0,5,NA,3,3,NA,"Yes",NA
+66,"Yes","No","No","Yes",2,"Yes","Yes","Schedule",4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,"Yes","Yes","Yes","Yes",3,"Yes","Yes","Place",2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,"Yes","Yes","No","No",2,"Yes","Yes","Place",4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,"Yes","No","No","Yes",2,"Yes","Yes","Place",2,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,"Yes","No","Yes","No",3,"Yes","Yes","Place",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,"Yes","No","No","Yes",3,"Yes","Yes","Speed",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,"Yes","No","Yes","Yes",NA,"Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,"Yes","No","No","Yes",3,"Yes","Yes","Waste",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,"Yes","No","No","No",3,"Yes","Yes","Place",2,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
+75,"Yes","No","Yes","No",3,"Yes","Yes","Place",2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,"Yes","Yes","Yes","No",3,"Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,"Yes","No","Yes","No",2,"Yes","Yes","Speed",4,0,"often","Yes",NA,2,4,3,4,3,NA,"Yes",NA
+78,"Yes","Yes","No","No",2,"Yes","Yes","Schedule",4,0,"never","No",NA,1,NA,NA,NA,NA,NA,"No",NA
+79,"Yes",NA,NA,NA,0,NA,"Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,"Yes",NA,NA,"Yes",3,"Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,"Yes","No","Yes","No",3,"Yes","Yes","Place",2,0,"often","No",NA,0,5,2,4,3,NA,"Yes",NA
+82,"Yes","No","No","Yes",3,"Yes","Yes","Place",4,0,"rarely","No",NA,1,5,4,4,4,NA,"Yes",NA
+83,"Yes","No","No","Yes",3,"Yes","Yes",NA,NA,NA,"never",NA,NA,1,5,NA,NA,NA,NA,"No",NA
+85,"Yes","No","No","Yes",2,"Yes","Yes","Place",2,0,"sometimes","No",NA,0,4,2,3,2,NA,"Yes",NA
+87,"Yes","Yes","No","Yes",3,"Yes","Yes",NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,"Yes","No","Yes","Yes",3,"Yes","Yes","Place",2,0,"sometimes","No",NA,0,5,2,4,2,NA,"Yes",NA
+91,"Yes","Yes","No","No",3,"Yes","Yes","Place",2,5,"sometimes","No",NA,2,4,3,3,2,NA,"Yes",NA
+93,"Yes",NA,"Yes","Yes",3,"Yes","Yes","Speed",2,0,"often",NA,NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+95,"Yes","Yes","Yes","No",3,"Yes","Yes","Place",2,4,"rarely","No",NA,1,3,2,4,4,NA,"Yes",NA
+96,"Yes",NA,"Yes",NA,3,"Yes","Yes",NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+97,"Yes",NA,"No","No",2,"Yes","Yes","Schedule",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+98,"No","No","Yes","No",2,"Yes","Yes","Schedule",2,4,"sometimes","No",NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+99,"No","No","Yes","Yes",2,"Yes","Yes","Schedule",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+100,"No","Yes","No","No",2,"Yes","Yes","Schedule",4,4,"rarely","No",NA,NA,5,1,5,2,NA,"Yes",NA
+101,"No","Yes","No","Yes",3,"Yes","No","Schedule",1,0,"never","Yes",NA,1,3,3,5,4,NA,"No",NA
+103,"No","No","No","Yes",1,"Yes","No","Schedule",4,0,"rarely","No",NA,4,1,1,5,5,NA,"Yes",NA
+104,"No","Yes","No","Yes",3,"Yes","Yes","Place",2,4,"never",NA,"Not accesible to students with allergies",1,NA,NA,NA,NA,NA,"No","Accessibility"
+105,"No","Yes","No",NA,3,NA,NA,NA,2,0,"often","No",NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+106,"No","No","No","Yes",3,"Yes","Yes","Place",2,5,"sometimes","Yes",NA,0,5,4,5,4,NA,"Yes",NA
+107,"No","No","Yes","No",3,"Yes","Yes","Schedule",2,10,"sometimes","No",NA,0,NA,NA,NA,NA,NA,"Yes",NA
+108,"No","No","No","Yes",NA,"Yes","Yes","Schedule",2,0,"often","No",NA,1,NA,NA,NA,NA,NA,"Yes",NA
+109,"No","No","Yes","Yes",3,"Yes","Yes","Schedule",4,4,"often","No",NA,1,3,3,4,5,NA,"Yes",NA
+110,"No","Yes","No","No",3,"Yes","Yes","Schedule",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+111,"No","No","No","No",0,"Yes","Yes","Speed",2,4,"never","No",NA,1,5,2,4,3,NA,"No",NA
+112,"No",NA,NA,NA,1,"Yes","Yes","Place",2,5,NA,NA,"Lack of houses and not fresh",4,1,3,5,5,NA,NA,"Variety, Quality"
+113,NA,"Yes","No","Yes",1,NA,NA,NA,NA,NA,"often",NA,NA,0,5,3,4,4,NA,"Yes",NA
+114,NA,"Yes","No","No",1,"Yes","Yes","Schedule",4,4,"sometimes","Yes","Because I want actual sushi not pepper and carrot sushi",2,3,3,5,3,NA,"Yes","Quality"
+115,NA,"Yes","No","No",2,"Yes","Yes","Schedule",4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+116,NA,"Yes",NA,NA,1,"Yes",NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+117,NA,"Yes","No","No",3,"Yes","Yes","Schedule",4,0,NA,"No",NA,0,NA,NA,NA,NA,NA,NA,NA
+118,NA,"Yes","No","Yes",3,"Yes","Yes",NA,1,0,NA,"No",NA,NA,NA,NA,NA,NA,NA,NA,NA
+120,NA,"No","No","Yes",3,"Yes","No","Schedule",NA,NA,NA,NA,NA,NA,5,4,3,3,NA,NA,NA
+121,NA,"No","Yes","Yes",3,"Yes","Yes","Schedule",1,4,"never","Yes",NA,0,4,NA,NA,NA,NA,"No",NA
+122,NA,"No","Yes","Yes",2,"Yes","Yes","Schedule",4,4,"rarely","No",NA,1,4,3,4,3,NA,"Yes",NA
+123,NA,"No","No","No",0,"No","Yes",NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+124,NA,"No","No","Yes",3,"Yes","Yes","Schedule",1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+127,NA,NA,"Yes","Yes",3,"Yes","Yes","Schedule",2,5,"sometimes","No",NA,1,3,3,4,4,NA,"Yes",NA
+128,NA,NA,"Yes","No",3,"Yes","Yes","Place",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+129,NA,NA,"Yes",NA,2,"Yes","Yes","Place",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+130,NA,NA,"Yes",NA,3,"Yes","Yes",NA,4,5,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA
+131,NA,NA,"Yes",NA,2,"Yes","Yes","Schedule",4,4,"often","Yes",NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+132,NA,NA,"No","Yes",2,"Yes","Yes","Place",1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+134,NA,NA,NA,"Yes",3,"Yes","Yes","Speed",2,4,"rarely","No",NA,0,5,4,4,4,NA,"Yes",NA
+135,NA,NA,NA,"Yes",2,"Yes","Yes","Schedule",4,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+136,NA,NA,NA,"Yes",NA,NA,"Yes","Schedule",2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+137,NA,NA,NA,NA,2,"No","Yes","Place",4,0,"rarely","Yes",NA,1,NA,NA,NA,NA,NA,"Yes",NA
+138,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA
+139,NA,NA,NA,NA,NA,"Yes","Yes",NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+140,NA,NA,NA,NA,NA,"Yes","Yes","Speed",2,4,"sometimes","Yes",NA,2,3,3,5,4,NA,"Yes",NA
+141,NA,NA,NA,NA,NA,NA,"Yes","Schedule",4,0,"sometimes","No",NA,4,5,1,5,4,NA,"Yes",NA
+142,NA,NA,NA,NA,NA,NA,"Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+143,NA,NA,NA,NA,NA,NA,"Yes","Speed",1,4,"never","No",NA,1,4,3,5,1,NA,"No",NA
+144,NA,NA,NA,NA,NA,NA,"Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+145,NA,NA,NA,NA,NA,NA,"Yes","Speed",2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+146,"Yes","No","No","Yes",3,"Yes","Yes","Place",4,5,"never","No","Variety",1,5,4,5,5,NA,"No","Variety"
+147,"Yes","No","Yes","No",1,"Yes","Yes","Place",4,0,"sometimes","No",NA,0,4,3,4,2,NA,"Yes",NA
+148,"Yes","No","Yes","No",3,"Yes","Yes","Place",2,4,"sometimes","No","Quality versus price, grab n go quality is awful",0,5,1,4,3,NA,"Yes","Quality, Price"
+149,"No","No","No","Yes",3,NA,"Yes","Schedule",4,0,"often","No","Not part of MANDATORY meal plan that I pay 6500 for (more expensive than paying per entry)",0,5,2,2,2,NA,"Yes","Price"
+150,"Yes","No","No","Yes",1,"Yes","Yes","Place",4,4,"sometimes","No","price and quality/variety of food",1,4,3,3,3,NA,"Yes","Price, Quality, Variety"
+151,"No","No","No","Yes",0,"No","Yes","Speed",2,0,"rarely","No",NA,0,4,2,2,4,NA,"Yes",NA
+152,"Yes","No","Yes","No",2,"Yes","Yes","Place",4,0,"rarely","No",NA,NA,NA,NA,NA,NA,NA,"Yes",NA
+153,"Yes","Yes","No","No",3,"Yes","Yes","Place",4,4,"rarely","No","Variety",1,2,3,4,5,NA,"Yes","Variety"
+154,"Yes","No","Yes","Yes",0,"No","Yes","Place",2,0,"often","Yes",NA,0,5,3,4,3,NA,"Yes",NA
+155,"Yes","Yes","No","No",0,"No","Yes","Place",0,0,"often","Yes",NA,0,4,4,4,4,NA,"Yes",NA
+156,"No","No","No","Yes",2,"Yes","Yes","Place",2,4,"sometimes","No","Price, quality, variety",1,4,3,2,1,NA,"Yes","Price, Quality, Variety"
+157,"Yes","No","No","Yes",2,"Yes","Yes","Schedule",4,0,"sometimes","No",NA,2,3,3,5,4,NA,"Yes",NA
+158,"Yes","No","No","No",1,"Yes","Yes","Schedule",4,0,"sometimes","No","Looks gross",1,3,3,4,3,NA,"Yes","Quality"
+159,"Yes","Yes","No","No",3,"Yes","Yes","Schedule",4,10,"often","No","quality/variety",0,5,1,4,5,NA,"Yes","Quality, Variety"
+160,"Yes","Yes","Yes","No",2,"Yes","Yes","Schedule",2,4,"sometimes","No",NA,1,3,4,5,5,NA,"Yes",NA
+161,"Yes","Yes","Yes","Yes",3,"Yes","Yes","Schedule",4,4,"often","No","Price",1,5,4,4,4,"Kids with social anxiety don’t want to go to meal hall and have to eat alone. Also many classes end at 2:30 and dining hall stops serving food at 2. Some classes even end at 8:30 and dining hall stops serving food by then.","Yes","Price"
